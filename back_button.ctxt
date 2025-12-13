@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=back_button
+comment1.params=
+comment1.target=back_button()
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ checkClick()
+comment4.params=
+comment4.target=void\ resumeGame()
+comment5.params=
+comment5.target=boolean\ isClicked()
+numComments=6
